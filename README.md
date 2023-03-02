@@ -8,7 +8,7 @@ Open Source Enthusiast | Tech Geek | DevOps & Backend Development 💜 | Backend
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [my mail](mailto:edsonsouzadev@outlook.com)
-* 🧠  I'm currently learning DevOps, DSA & Backend Development
+* 🧠  I'm in my journey of becoming a *full-stack blockchain developer*
 * 🤝  I'm open to collaborate on All types of Open Source Projects
 * :memo: I'm also a blogger at [hashnode](https://hashnode.com/@edsodz) and [showwcase](https://www.showwcase.com/edsodz)
 
