@@ -2,7 +2,7 @@
 Hey everyone 👋 I am Edson Sooraj Dsouza :smiley:
 ===============================
 
-Open Source Enthusiast | Tech Geek | DevOps & Backend Development 💜 | Backend Dev.
+Open Source Enthusiast | Tech Geek | Full-Stack Blockchain Development 💜 | Backend Dev.
 ----------------------------------------------------------------------------------------------------------------------------------------
 **I am a 20 year old student currently pursuing my B.Tech in Computer Engineering with a keen interest in contributing to Open Source and Backend projects. Looking for an opportunity to work in a leading organization in a challenging position where I can apply my skills in Software Engineering.**
 
