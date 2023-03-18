@@ -15,19 +15,13 @@ I love GitHub and it is my dream company.
 - I am currently learning Blockchain, DevOps, and Data Structures and Algorithms
 - You can contact me at [my mail](mailto:edsonsouzadev@outlook.com)
 
-
 ### Skills
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### GitHub Stats
-<p>
-     <a href="http://www.github.com/edsondsouza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edsondsouza&stroke=000000&background=ffffff&ring=000000&fire=e25822&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-  </p>
-   
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Stack Overflow & Stack Exchange Stats
 
