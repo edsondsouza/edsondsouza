@@ -8,7 +8,7 @@
 
 I am in my journey of becoming a *Blockchain Developer* and I am also interested in learning and understanding how the *DevOps Technologies* work.
 
-I love to code and I am here to learn about various technologies that can help people to improve their life.
+I love to code and I am here to learn about various technologies that can help people in improving their life.
 
 I love GitHub and it is my dream company.
 
