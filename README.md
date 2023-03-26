@@ -6,7 +6,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18517557/edson-sooraj-dsouza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/edsodz/)
 
-I am in my journey of becoming a *Blockchain Developer* and I am also interested in learning and understanding how the *DevOps Technologies* work.
+I am on my journey to becoming a *Blockchain Developer* and I am also interested in learning and understanding how *DevOps Technologies* work.
 
 I love to code and I am here to learn about various technologies that can help people in improving their life.
 
