@@ -11,8 +11,6 @@ I am on my journey to becoming a *Blockchain Developer* and I am also interested
 
 I love to code and I am here to learn about various technologies that can help people in improving their life.
 
-I love GitHub and it is my dream company.
-
 - I am currently learning Blockchain, DevOps, and Data Structures and Algorithms
 - You can contact me at [my mail](mailto:edsonsouzadev@outlook.com)
 
