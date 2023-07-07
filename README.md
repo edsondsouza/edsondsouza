@@ -24,7 +24,10 @@ I love to code and I am here to learn about various technologies that can help p
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🌮 [Asynchronous JavaScript: Unleashing Performance and Efficiency](https://edsondsouza.hashnode.dev/asynchronous-javascript-unleashing-performance-and-efficiency)
+ - 💯 [JavaScript Web Server using Nodejs](https://edsondsouza.hashnode.dev/javascript-web-server-using-nodejs)
+ - 💯 [Evolution of Web](https://edsondsouza.hashnode.dev/evolution-of-web)
+ - 💯 [Why Web3 Blueprint?](https://edsondsouza.hashnode.dev/why-web3-blueprint)<!-- BLOGPOSTS:END -->
 
 
 ### Stack Overflow & Stack Exchange Stats
