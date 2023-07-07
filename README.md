@@ -22,6 +22,11 @@ I love to code and I am here to learn about various technologies that can help p
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
+
 ### Stack Overflow & Stack Exchange Stats
 
 <a href="https://meta.stackexchange.com/users/1331166/edson-sooraj-dsouza"><img src="https://meta.stackexchange.com/users/flair/1331166.png" width="208" height="58" alt="profile for Edson Sooraj Dsouza on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Edson Sooraj Dsouza on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
