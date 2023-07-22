@@ -16,7 +16,17 @@ I'm a blockchain and Solidity smart contract developer, passionate about buildin
 I'm open to collaborating on exciting blockchain projects, contributing to open-source initiatives, and exploring innovative ideas. If you're working on something cool or need help with Solidity development, feel free to reach out!
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/dsouzaedson/), [Twitter](https://twitter.com/edsondsouza), [YouTube](https://www.youtube.com/channel/UCGuovCpLjXnohiijHn0BXeg)
+- LinkedIn- 
+- Twitter - 
+- YouTube - 
+- Email - 
+
+| Social Media  | Links |
+| :---        |    :----:   |
+| LinkedIn     | [@dsouzaedson](https://www.linkedin.com/in/dsouzaedson/)   |
+| Twitter   | [@edsondsouza](https://twitter.com/edsondsouza) |
+| YouTube  | [@dsouzaedson](https://www.youtube.com/channel/UCGuovCpLjXnohiijHn0BXeg) |
+| Email  | `edsondsouzadev@gmail.com` |
 
 ## Fun Fact
 So far I don't have any T_T
