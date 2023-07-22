@@ -10,17 +10,15 @@ I'm a blockchain and Solidity smart contract developer, passionate about buildin
 - **Tools:** Git.
 
 ## Blog & Articles
-[HashNode](https://edsondsouza.hashnode.dev/)
+| Platform  | Links |
+| :---        |    :----:   |
+| Hashnode     | [@edsondsouza](https://edsondsouza.hashnode.dev/)   |
+| Dev.to   | [@edsondsouza](https://dev.to/edsondsouza) |
 
 ## Open to Collaboration
 I'm open to collaborating on exciting blockchain projects, contributing to open-source initiatives, and exploring innovative ideas. If you're working on something cool or need help with Solidity development, feel free to reach out!
 
 ## Connect With Me
-- LinkedIn- 
-- Twitter - 
-- YouTube - 
-- Email - 
-
 | Social Media  | Links |
 | :---        |    :----:   |
 | LinkedIn     | [@dsouzaedson](https://www.linkedin.com/in/dsouzaedson/)   |
