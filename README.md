@@ -7,7 +7,7 @@ I'm a blockchain and Solidity smart contract developer, passionate about buildin
 - **Blockchain:** Ethereum, Solidity, Remix IDE, Ganache.
 - **Languages:** Rust.
 - **Frontend:** HTML.
-- **Tools:** Git, Visual Studio Code (VSCode), GitHub.
+- **Tools:** Git, Visual Studio Code (VSCode), Vim, GitHub.
 
 ## Blog & Articles
 | Platform  | Links |
