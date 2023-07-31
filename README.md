@@ -4,7 +4,7 @@
 I'm a blockchain and Solidity smart contract developer, passionate about building decentralized applications (DApps) that leverage the power of blockchain technology. My journey in the world of blockchain began on May 2023. With a focus on secure and efficient smart contract development, I aim to contribute to the advancement of the decentralized ecosystem. Other than that I love reading novels.
 
 ## Tech Stack
-- **Blockchain:** Ethereum, Solidity, Remix IDE, Ganache.
+- **Blockchain:** Ethereum, Solidity, Remix IDE, Ganache, Truffle.
 - **Languages:** Rust.
 - **Frontend:** HTML.
 - **Tools:** Git, Visual Studio Code (VSCode), Vim, GitHub.
