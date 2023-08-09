@@ -5,7 +5,7 @@ I'm a blockchain and Solidity smart contract developer, passionate about buildin
 
 ## Tech Stack
 - **Blockchain:** Ethereum, Solidity, Remix IDE, Ganache, Truffle, Thirdweb.
-- **Languages:** Rust.
+- **Languages:** JavaScript.
 - **Frontend:** HTML.
 - **Tools:** Git, Visual Studio Code (VSCode), Vim, GitHub.
 
