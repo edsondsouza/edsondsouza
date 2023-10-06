@@ -28,6 +28,3 @@ I'm open to collaborating on exciting blockchain projects, contributing to open-
 
 ## Fun Fact
 So far I don't have any T_T
-
-## GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsondsouza&show_icons=true&count_private=true&hide=prs&theme=radical)
