@@ -1,30 +1,30 @@
-# Hey there! I'm Edson Sooraj Dsouza 👋
+# Hey there!👋 I'm Edson Sooraj Dsouza 
+> I am an aspiring software engineer 🍵
 
 ## About Me
-I'm a blockchain and Solidity smart contract developer, passionate about building decentralized applications (DApps) that leverage the power of blockchain technology. My journey in the world of blockchain began in May 2023. With a focus on secure and efficient smart contract development, I aim to contribute to the advancement of the decentralized ecosystem.
+- 🌍 I'm based in **Bengaluru, India**
+- 🧑‍💻 I'm currently working on **MyMonthlyProgress**
+- 🧠 I'm currently learning **MERN Stack**
+- 📧 You can contact me at _edsondsouzadev@gmail.com_
+- ⚡ 
 
-## Tech Stack
-- **Blockchain:** Ethereum, Solidity, Remix IDE, Ganache, Truffle.
+## ⚒️ Tech Stack 
 - **Languages:** JavaScript.
-- **Frontend:** HTML, CSS, Tailwind CSS.
+- **Frontend:** HTML, React
+- **Database:** MongoDB
 - **Tools:** Git, Visual Studio Code (VSCode), GitHub.
 
-## Blog & Articles
+## ✍️ Blog & Articles
 | Platform  | Links |
 | :---        |    :----:   |
 | Hashnode     | [@edsondsouza](https://edsondsouza.hashnode.dev/)   |
-| Dev.to   | [@edsondsouza](https://dev.to/edsondsouza) |
 
-## Open to Collaboration
-I'm open to collaborating on exciting blockchain projects, contributing to open-source initiatives, and exploring innovative ideas. If you're working on something cool or need help with Solidity development, feel free to reach out!
+## 🤝 Open to Collaboration
+I'm open to collaborating on MERN projects
 
-## Connect With Me
+## 🔗Connect With Me
 | Social Media  | Links |
 | :---        |    :----:   |
-| LinkedIn     | [@dsouzaedson](https://www.linkedin.com/in/dsouzaedson/)   |
 | Twitter   | [@edsondsouza](https://twitter.com/edsondsouza) |
 | YouTube  | [@dsouzaedson](https://www.youtube.com/channel/UCGuovCpLjXnohiijHn0BXeg) |
-| Email  | `edsondsouzadev@gmail.com` |
-
-## Fun Fact
-So far I don't have any T_T
+| LinkedIn     | [@dsouzaedson](https://www.linkedin.com/in/dsouzaedson/)   |
