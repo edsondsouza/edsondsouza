@@ -6,7 +6,7 @@
 - 🧑‍💻 I'm currently working on **MyMonthlyProgress**
 - 🧠 I'm currently learning **MERN Stack**
 - 📧 You can contact me at _edsondsouzadev@gmail.com_
-- ⚡ 
+- ⚡ I like listening to **Lofi Music**
 
 ## ⚒️ Tech Stack 
 - **Languages:** JavaScript.
