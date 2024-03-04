@@ -1,5 +1,4 @@
 # Hey there!👋 I'm Edson Sooraj Dsouza 
-> I am an aspiring software engineer 🍵
 
 ## About Me
 - 🌍 I'm based in **Bengaluru, India**
@@ -8,19 +7,10 @@
 - 📧 You can contact me at _edsondsouzadev@gmail.com_
 - ⚡ I like listening to **Lofi Music**
 
-## ⚒️ Tech Stack 
-- **Languages:** JavaScript.
-- **Frontend:** HTML, React
-- **Database:** MongoDB
-- **Tools:** Git, Visual Studio Code (VSCode), GitHub.
-
 ## ✍️ Blog & Articles
 | Platform  | Links |
 | :---        |    :----:   |
 | Hashnode     | [@edsondsouza](https://edsondsouza.hashnode.dev/)   |
-
-## 🤝 Open to Collaboration
-I'm open to collaborating on MERN projects
 
 ## 🔗Connect With Me
 | Social Media  | Links |
