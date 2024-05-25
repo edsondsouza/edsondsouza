@@ -2,8 +2,9 @@
 
 ## About Me
 - 🌍 I'm based in **Bengaluru, India**
-- 🧑‍💻 I'm currently working on **MyMonthlyProgress**
-- 🧠 I'm currently learning **MERN Stack**
+- 🧑‍💻 I'm currently working on **TodayNews**
+- 🧠 I'm currently learning **Android Development**
+- 📦 I'm interested in **Product Management**
 - 📧 You can contact me at _edsondsouzadev@gmail.com_
 - ⚡ I like listening to **Lofi Music**
 
