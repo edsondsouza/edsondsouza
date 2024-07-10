@@ -4,7 +4,7 @@
 - 🌍 I'm based in **Bengaluru, India**
 - 🧑‍💻 I'm currently working on **TodayNews**
 - 🧠 I'm currently learning **Android Development**
-- 📦 I'm interested in **Product Management**
+- 📦 I'm interested in **Linux**
 - 📧 You can contact me at _edsondsouzadev@gmail.com_
 - ⚡ I like listening to **Lofi Music**
 
